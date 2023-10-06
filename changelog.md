@@ -28,3 +28,11 @@
     7.2. Display blog details
 
 8* BlogPosts CRUD, images and home page commit
+
+9. Authentication
+9.1 create login component
+9.2 create auth service
+9.3 store token securely (ngx coockie service)
+9.4 update navbar to display login info
+9.5 test pass jwt token in http requests - implement interceptors and pass auth header
+9.6 auth guards, bind routs to auth guards
